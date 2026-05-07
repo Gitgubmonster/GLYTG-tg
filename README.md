@@ -1,4 +1,4 @@
-# GLYT Bot
+# GLYT Bot (@tgglit_bot)
 
 **GLYT** is a self-learning conversational bot that only repeats what you taught it.
 
